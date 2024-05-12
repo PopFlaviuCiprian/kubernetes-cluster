@@ -2,7 +2,7 @@
 
 ## :scroll: Project description
 
-![schema](~img/schema.jpg)
+![Cheat Sheet](~img/schema.jpg)
 
 
 ### :pushpin: The Voting App consists of the following components: 
