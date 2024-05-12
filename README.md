@@ -36,7 +36,7 @@
 
 - we run minikube start
 
-### :pushpin: Usefull commands:
+### :pushpin: Useful commands:
 
 ```
 kubectl create -f file-name.yaml # create the deployment or service
