@@ -21,6 +21,8 @@
 ### :pushpin: Project structure
 
 - We create a yaml file for each service and deployment:
+
+```
 .
 ├── db-service.yaml
 ├── db.yaml
@@ -31,7 +33,7 @@
 ├── voting-app.yaml
 ├── voting-service.yaml
 └── worker.yaml
-
+```
 
 - we run minikube start
 
