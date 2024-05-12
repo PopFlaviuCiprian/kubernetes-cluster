@@ -21,7 +21,7 @@
 ### :pushpin: Project structure
 
 - We create a yaml file for each service and deployment:
-
+.
 ├── db-service.yaml
 ├── db.yaml
 ├── redis-service.yaml
